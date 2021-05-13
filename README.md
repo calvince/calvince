@@ -1,7 +1,8 @@
-## Tech Enthusiast 👩‍💻 
+<h1 align="center">Hi 💻, I'm Calvince</h1>
 
-
-Omonge Calvince is an enthusiastic developer who loves engineering tech solutions . My main stack currenctly includes JavaScript for the web,Java(Spring Boot) for backend and Android app development.
+<h5 align="center">Enthusiastic software developer who loves engineering tech solutions . My main stack currenctly includes JavaScript for the web,Java(Spring Boot) for backend and Android app development.</h5>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=calvince alt=rahuldkjain/> </p>
+ 
 
 ## Stats
 
